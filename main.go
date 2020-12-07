@@ -173,5 +173,5 @@ func struct_ex() {
 	fmt.Println(hwan)
 	fmt.Println(hwan.age)
 
-	fmt.Println(nico)//ddd
+	fmt.Println(nico)
 }
